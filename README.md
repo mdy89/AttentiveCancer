@@ -9,6 +9,6 @@ We developed a computational framework to determine metastatic potentials in ear
 
 
 # Source code
-This study is currently under review, and the source code will be sent to you as a request via the address below.
+This study is currently under review and we will provide source code on request via the address below.
 
 E: mindoly89@gmail.com
